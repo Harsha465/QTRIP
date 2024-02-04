@@ -39,7 +39,7 @@
         {
             "assesmentDescription":"Verify testCase 2 : Iteration 3 ",
             "find":".//test-method[contains(@name,'TestCase02') and @status='PASS']//value[text()[contains(.,'Goa')] or text()[contains(.,'Party Spots')]  ]",
-            "expectedCount":0,
+            "expectedCount":2,
             "errorMessage":"testCase02:Dataset3 validation Failed"
         },
         {
